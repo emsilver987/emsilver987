@@ -41,7 +41,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emsilver987&show_icons=true&count_private=true&theme=tokyonight)
+![Ethan's GitHub stats](https://read-me-rho.vercel.app/api?username=emsilver987&show_icons=true&count_private=true&theme=tokyonight)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emsilver987&layout=compact&theme=tokyonight)
 
