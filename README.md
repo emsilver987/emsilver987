@@ -40,14 +40,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Ethan's GitHub stats](https://read-me-rho.vercel.app/api?username=emsilver987&show_icons=true&count_private=true&theme=tokyonight)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emsilver987&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ethan-silverthorne/)  
 - [GitHub](https://github.com/emsilver987)  
