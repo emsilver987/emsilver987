@@ -30,7 +30,7 @@
 - Optimized Cloud Functions → **reduced cold start latency by 2–5 seconds**
 
 
-### AI Model Catalog CLI
+### [AI Model Catalog CLI](https://github.com/emsilver987/CS450_Team_Repo)
 A trustworthiness evaluator for open-source AI/ML models from GitHub and Hugging Face Hub.
 The AI Model Catalog CLI is a command-line tool designed to help engineering teams assess the trustworthiness, quality, and reusability of AI/ML models. It calculates a weighted NetScore across eight key dimensions — from documentation and licensing to dataset quality and code maintainability — helping developers make informed decisions about model adoption.
 
@@ -56,7 +56,7 @@ Python · GitHub API · Hugging Face API · Purdue GenAI Studio API · Pytest ·
 - Scalable architecture → easy to add new games with minimal changes  
 - Showcases clean OOD principles (encapsulation, patterns, modular design)
 
-### 🤖 IBM ML Certificate Projects
+### 🤖 [IBM ML Certificate Projects](https://github.com/emsilver987/Machine-Learning-Python-IBM)
 - Completed **20+ ML projects** (Python, NumPy, Pandas)  
 - Covered supervised & unsupervised learning, model evaluation, end-to-end ML pipelines
 
