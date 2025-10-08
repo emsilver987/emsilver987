@@ -29,6 +29,28 @@
 - Built AI workout generation pipeline, Firebase Auth, Firestore, and in-app purchases  
 - Optimized Cloud Functions → **reduced cold start latency by 2–5 seconds**
 
+
+### AI Model Catalog CLI
+A trustworthiness evaluator for open-source AI/ML models from GitHub and Hugging Face Hub.
+The AI Model Catalog CLI is a command-line tool designed to help engineering teams assess the trustworthiness, quality, and reusability of AI/ML models. It calculates a weighted NetScore across eight key dimensions — from documentation and licensing to dataset quality and code maintainability — helping developers make informed decisions about model adoption.
+
+##### 🧠 My Role
+Backend Developer & API Integrator
+Built scalable Python modules for GitHub and Hugging Face API integration
+Implemented LLM-enhanced scoring using the Purdue GenAI Studio API for smarter README and metadata analysis
+Added parallelized metric computation and auto-grader NDJSON output for performance and automation
+Contributed to CI/CD setup, debug logging, and environment configuration
+
+##### ⚙️ Key Features
+🔍 Dual-source model analysis (GitHub & Hugging Face)
+🧮 8-dimensional scoring system (size, license, ramp-up, bus factor, availability, dataset quality, code quality, performance claims)
+🧠 LLM-powered README analysis for more context-aware evaluations
+⚡ Parallel metric processing with graceful API rate limiting
+🧰 Auto-grader and NDJSON output support for reproducible scoring
+
+##### 🧩 Tech Stack
+Python · GitHub API · Hugging Face API · Purdue GenAI Studio API · Pytest · Pre-commit · CI/CD
+
 ### 🎲 [Casino Simulator](https://github.com/emsilver987/Casino-Simulator)
 - Casino platform with **40+ OOP classes** (Blackjack, Poker, etc.)  
 - Scalable architecture → easy to add new games with minimal changes  
