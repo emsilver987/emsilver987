@@ -2,15 +2,15 @@
 
 💻 **Software Engineer | Computer Science @ Purdue University (Dec 2026)**  
 🚀 Builder of scalable apps, AI pipelines, and seamless user experiences  
-🎯 Actively seeking a **Summer 2026 Software Engineering Internship**
+🎯 Bound for IBM Summer 2026 as backend software engineer
 
 ---
 
 ## 🔥 About Me
 - 📱 Software Engineer at **KTAI**, building **[PhotoFit AI](https://apps.apple.com/us/app/ai-fitness-app-exercaise/id6745973398)** — an AI-powered fitness app on the **App Store** & **Play Store**  
-- 💡 Entrepreneurial mindset: launched PhotoFit AI with **300+ downloads** and **$350 revenue in the first month**  
+- 💡 Entrepreneurial mindset: launched PhotoFit AI with **400+ downloads** and **$2400+ revenue**  
 - ⚡ Passionate about designing **high-performance, scalable systems** that solve real-world problems  
-- 🎓 **3.54 GPA**, minors in **Mathematics** & **Management**
+- 🎓 **3.5 GPA**, minors in **Mathematics** & **Management**
 
 ---
 
@@ -27,10 +27,16 @@
 ### 📱 [PhotoFit AI](https://apps.apple.com/us/app/ai-fitness-app-exercaise/id6745973398) | [Play Store](https://play.google.com/store/apps/details?id=com.workout.exercaise)
 > *AI-powered mobile fitness app that generates personalized workouts based on equipment and goals.*
 
-- Cross-platform app (iOS + Android) with **300+ downloads** and **98% crash-free sessions**  
-- Integrated **Firebase Auth**, Firestore, and **Stripe in-app purchases**  
-- Built **AI workout generation pipeline** using OpenAI API  
-- Optimized backend Cloud Functions → **reduced cold start latency by 2–5 seconds**
+I designed, built, and shipped everything:
+Product direction and feature decisions
+Mobile app architecture (React Native + Expo Router)
+Backend systems (Firebase Auth, Firestore, Cloud Functions)
+AI workflows for personalized workout generation
+Subscription payments and lifecycle management (RevenueCat)
+Analytics, crash reporting, and production monitoring
+App Store and Play Store review, compliance, and launch
+Building PhotoFit AI forced me to stop thinking in features and start thinking in systems:
+reliability, scalability, failure modes, and user trust.
 
 ---
 
