@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Ethan Silverthorne  
 
+[Visit my Website](www.ethansilverthorne.com)
+
 💻 **Software Engineer | Computer Science @ Purdue University (Dec 2026)**  
 🚀 Builder of scalable apps, AI pipelines, and seamless user experiences  
 🎯 Bound for IBM Summer 2026 as backend software engineer
