@@ -10,7 +10,7 @@
 
 ## 🔥 About Me
 - 📱 Software Engineer at **KTAI**, building **[PhotoFit AI](https://apps.apple.com/us/app/ai-fitness-app-exercaise/id6745973398)** — an AI-powered fitness app on the **App Store** & **Play Store**  
-- 💡 Entrepreneurial mindset: launched PhotoFit AI with **400+ downloads** and **$2400+ revenue**  
+- 💡 Entrepreneurial mindset: launched PhotoFit AI with **500+ downloads** and **$2500+ revenue**  
 - ⚡ Passionate about designing **high-performance, scalable systems** that solve real-world problems  
 - 🎓 **3.5 GPA**, minors in **Mathematics** & **Management**
 
@@ -84,6 +84,6 @@ The **AI Model Catalog CLI** assesses models from **GitHub** and **Hugging Face*
 ---
 
 ## 🌐 Connect with Me
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/ethan-silverthorne/)  
-- 🧠 [**GitHub**](https://github.com/emsilver987)  
-- 📧 **emsilver987@gmail.com**
+-  [**LinkedIn**](https://www.linkedin.com/in/ethan-silverthorne/)    
+- [Visit my Website](https://www.ethansilverthorne.com)
+- **emsilver987@gmail.com**
