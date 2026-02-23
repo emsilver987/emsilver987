@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ethan Silverthorne  
 
-[Visit my Website](www.ethansilverthorne.com)
+[Visit my Website](https://www.ethansilverthorne.com)
 
 💻 **Software Engineer | Computer Science @ Purdue University (Dec 2026)**  
 🚀 Builder of scalable apps, AI pipelines, and seamless user experiences  
