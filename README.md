@@ -9,8 +9,8 @@
 ---
 
 ## 🔥 About Me
-- 📱 Software Engineer at **KTAI**, building **[PhotoFit AI](https://apps.apple.com/us/app/ai-fitness-app-exercaise/id6745973398)** — an AI-powered fitness app on the **App Store** & **Play Store**  
-- 💡 Entrepreneurial mindset: launched PhotoFit AI with **500+ downloads** and **$2500+ revenue**  
+- 📱 Software Engineer at **KTAI**, building **[Kintec AI](https://apps.apple.com/us/app/ai-fitness-app-exercaise/id6745973398)** — an AI-powered fitness app on the **App Store** & **Play Store**  
+- 💡 Entrepreneurial mindset: launched PhotoFit AI with **700+ downloads** and **$6000+ revenue**  
 - ⚡ Passionate about designing **high-performance, scalable systems** that solve real-world problems  
 - 🎓 **3.5 GPA**, minors in **Mathematics** & **Management**
 
@@ -26,7 +26,7 @@
 
 ## 🚀 Featured Projects  
 
-### 📱 [PhotoFit AI](https://apps.apple.com/us/app/ai-fitness-app-exercaise/id6745973398) | [Play Store](https://play.google.com/store/apps/details?id=com.workout.exercaise)
+### 📱 [Kintec AI](https://apps.apple.com/us/app/ai-fitness-app-exercaise/id6745973398) | [Play Store](https://play.google.com/store/apps/details?id=com.workout.exercaise)
 > *AI-powered mobile fitness app that generates personalized workouts based on equipment and goals.*
 
 I designed, built, and shipped everything:
